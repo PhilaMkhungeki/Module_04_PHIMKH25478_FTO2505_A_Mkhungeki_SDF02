@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(pink, rgb(122, 94, 99));
+}
+ 
+.navigation-bar{
+    background-color: black;
+}
+
+
+section{
+    padding: 10px;
+    border-bottom: 3px solid rgba(158, 110, 118, 0.658);
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+
+table, tr, th, td {
+    border: 1px solid black;
+}
